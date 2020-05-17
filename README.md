@@ -1,4 +1,4 @@
-# TE-1-29.2-SIGNAL-INJECTOR
+# TE-1-SIGNAL-INJECTOR
 
 ![](https://github.com/SteveJustin1963/TE-1-29.2-SIGNAL-INJECTOR/blob/master/sig-injct-cct.png)
 
